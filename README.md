@@ -3,9 +3,9 @@
 ```
 I'm Ayush
 ---------
-> work as a fullstack dev as my day job
-> learning low-level and systems programming
-> can code in c, go, javascript, typescript, python
+> software engineer focused on databases, system architecture, and low-level systems
+> curious about system internals and engineering details
+
 ```
 
 <!-- <picture> -->
