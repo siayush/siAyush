@@ -3,9 +3,8 @@
 ```
 I'm Ayush
 ---------
-> software engineer focused on databases, system architecture, and low-level systems
-> curious about system internals and engineering details
-
+> software engineer focused on backend, databases, system architecture, and low-level engineering
+> curious about system internals and the details that make things work
 ```
 
 <!-- <picture> -->
